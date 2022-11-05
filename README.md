@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mahesh1412
 - 👀 I’m interested in competitive coding.
-- 🌱 I’m currently learning C++, Javascript and DBMS
+- 🌱 I’m currently learning C++, Javascript ,NODE JS, EXPRESS JS, REACT JS, MONGO-DB, MYSQL , PYTHON , MACHINE LEARNING.
 - 💞️ I’m looking to collaborate on something interesting in immediate future
 - 📫 How to reach me ...
 
